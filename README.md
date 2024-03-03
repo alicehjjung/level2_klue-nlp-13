@@ -1,5 +1,23 @@
 # level2_klue-nlp-13
+[ENG](#ENG)   
+[한국어](#한국어)
 
+## ENG
+# Relation Extraction(RE) project
+This project identifies semantic relations between entity pairs in a text.<br>
+We used a pre-trained model from the Hugging Face and KLUE-RE dataset and trained the pre-trained model to predict the relations between the subject and object entity.<br>
+[Furter information about KLUE-RE](https://klue-benchmark.com/tasks/70/overview/description)<br>
+
+## Getting Started
+
+To use this project, follow these steps:
+
+### Train and Test the Model
+```
+python main.py
+```
+
+## 한국어
 ## ✅ 목차
 [1. 정보](##-📜-정보) > [2. 진행 과정](##-진행-과정) > [3. 팀원](##-팀원) > [4. 역할](##-역할) > [5. 디렉토리 구조](##-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EA%B5%AC%EC%A1%B0) > [6. 프로젝트 구성](##-프로젝트-구성)
 
