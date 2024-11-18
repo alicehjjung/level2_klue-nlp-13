@@ -66,9 +66,9 @@ python main.py
             <br />
         </td>
         <td align="center" width="150px">
-            <a href="https://github.com/HYOJUNG08"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/HYOJUNG08"/></a>
+            <a href="https://github.com/alicehjjung"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/HYOJUNG08"/></a>
             <br/>
-            <a href="https://github.com/HYOJUNG08"><strong>정효정</strong></a>
+            <a href="https://github.com/alicehjjung"><strong>정효정</strong></a>
             <br />
         </td>
     </tr>
